@@ -1,0 +1,25 @@
+{
+  "raw_records_total": 10800,
+  "orders_retained": 9994,
+  "regional_managers_extracted": 4,
+  "returns_records_extracted": 800,
+  "delimiter_header_rows_excluded": 2,
+  "postal_codes_imputed": {
+    "count": 11,
+    "city": "Burlington",
+    "state": "Vermont",
+    "imputed_value": "05408"
+  },
+  "flags_and_diagnostics": {
+    "loss_making_orders_count": 1871,
+    "loss_making_orders_pct": 18.72,
+    "total_negative_profit_amount": -156131.29,
+    "returned_order_lines_count": 800,
+    "returned_order_lines_pct": 8.0
+  },
+  "reconciliation": {
+    "raw_total": 10800,
+    "accounted_for": 10800,
+    "discrepancy": 0
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "profile_name": "Pre-Cleaning Data Quality Profile",
+  "summary": {
+    "total_records": 10800,
+    "total_columns": 21,
+    "exact_duplicate_rows": 504,
+    "order_product_composite_duplicates": 512
+  },
+  "column_level_stats": {
+    "Row ID": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "distinct_count": 10001,
+      "sample_values": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "Order ID": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "distinct_count": 5015,
+      "sample_values": [
+        "CA-2017-152156",
+        "CA-2017-152156",
+        "CA-2017-138688"
+      ]
+    },
+    "Order Date": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 1236,
+      "sample_values": [
+        "11/8/2017",
+        "11/8/2017",
+        "6/12/2017"
+      ]
+    },
+    "Ship Date": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 1334,
+      "sample_values": [
+        "11/11/2017",
+        "11/11/2017",
+        "6/16/2017"
+      ]
+    },
+    "Ship Mode": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 4,
+      "sample_values": [
+        "Second Class",
+        "Second Class",
+        "Second Class"
+      ]
+    },
+    "Customer ID": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 793,
+      "sample_values": [
+        "CG-12520",
+        "CG-12520",
+        "DV-13045"
+      ]
+    },
+    "Customer Name": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 793,
+      "sample_values": [
+        "Claire Gute",
+        "Claire Gute",
+        "Darrin Van Huff"
+      ]
+    },
+    "Segment": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 3,
+      "sample_values": [
+        "Consumer",
+        "Consumer",
+        "Corporate"
+      ]
+    },
+    "Country": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 1,
+      "sample_values": [
+        "United States",
+        "United States",
+        "United States"
+      ]
+    },
+    "City": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 531,
+      "sample_values": [
+        "Henderson",
+        "Henderson",
+        "Los Angeles"
+      ]
+    },
+    "State": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 49,
+      "sample_values": [
+        "Kentucky",
+        "Kentucky",
+        "California"
+      ]
+    },
+    "Postal Code": {
+      "dtype": "float64",
+      "null_count": 817,
+      "null_pct": 7.56,
+      "distinct_count": 630,
+      "sample_values": [
+        "42420.0",
+        "42420.0",
+        "90036.0"
+      ]
+    },
+    "Region": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 4,
+      "sample_values": [
+        "South",
+        "South",
+        "West"
+      ]
+    },
+    "Product ID": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 1862,
+      "sample_values": [
+        "FUR-BO-10001798",
+        "FUR-CH-10000454",
+        "OFF-LA-10000240"
+      ]
+    },
+    "Category": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 3,
+      "sample_values": [
+        "Furniture",
+        "Furniture",
+        "Office Supplies"
+      ]
+    },
+    "Sub-Category": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 17,
+      "sample_values": [
+        "Bookcases",
+        "Chairs",
+        "Labels"
+      ]
+    },
+    "Product Name": {
+      "dtype": "str",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 1850,
+      "sample_values": [
+        "Bush Somerset Collection Bookcase",
+        "Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",
+        "Self-Adhesive Address Labels for Typewriters by Universal"
+      ]
+    },
+    "Sales": {
+      "dtype": "float64",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 5825,
+      "sample_values": [
+        "261.96",
+        "731.94",
+        "14.62"
+      ]
+    },
+    "Quantity": {
+      "dtype": "float64",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 14,
+      "sample_values": [
+        "2.0",
+        "3.0",
+        "2.0"
+      ]
+    },
+    "Discount": {
+      "dtype": "float64",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 12,
+      "sample_values": [
+        "0.0",
+        "0.0",
+        "0.0"
+      ]
+    },
+    "Profit": {
+      "dtype": "float64",
+      "null_count": 806,
+      "null_pct": 7.46,
+      "distinct_count": 7287,
+      "sample_values": [
+        "41.9136",
+        "219.582",
+        "6.8714"
+      ]
+    }
+  },
+  "date_audit": {
+    "order_date_range": {
+      "min": "2015-01-03 00:00:00",
+      "max": "2018-12-30 00:00:00",
+      "invalid_format_count": 806
+    },
+    "ship_date_range": {
+      "min": "2015-01-07 00:00:00",
+      "max": "2019-01-05 00:00:00",
+      "invalid_format_count": 806
+    },
+    "date_inversions_ship_before_order": 0,
+    "lead_time_days_min": 0,
+    "lead_time_days_max": 7,
+    "lead_time_days_mean": 3.96
+  },
+  "numeric_audit": {
+    "Sales": {
+      "min": 0.444,
+      "max": 22638.48,
+      "mean": 229.858,
+      "sum": 2297200.86,
+      "non_numeric_nan_count": 806,
+      "negative_value_count": 0,
+      "zero_value_count": 0,
+      "outlier_analysis": {
+        "q1": 17.28,
+        "q3": 209.94,
+        "iqr": 192.66,
+        "lower_bound": -271.71,
+        "upper_bound": 498.93,
+        "outlier_count": 1167,
+        "outlier_pct": 11.68
+      }
+    },
+    "Quantity": {
+      "min": 1.0,
+      "max": 14.0,
+      "mean": 3.7896,
+      "sum": 37873.0,
+      "non_numeric_nan_count": 806,
+      "negative_value_count": 0,
+      "zero_value_count": 0,
+      "outlier_analysis": {
+        "q1": 2.0,
+        "q3": 5.0,
+        "iqr": 3.0,
+        "lower_bound": -2.5,
+        "upper_bound": 9.5,
+        "outlier_count": 170,
+        "outlier_pct": 1.7
+      }
+    },
+    "Discount": {
+      "min": 0.0,
+      "max": 0.8,
+      "mean": 0.1562,
+      "sum": 1561.09,
+      "non_numeric_nan_count": 806,
+      "negative_value_count": 0,
+      "zero_value_count": 4798,
+      "outlier_analysis": {
+        "q1": 0.0,
+        "q3": 0.2,
+        "iqr": 0.2,
+        "lower_bound": -0.3,
+        "upper_bound": 0.5,
+        "outlier_count": 856,
+        "outlier_pct": 8.57
+      }
+    },
+    "Profit": {
+      "min": -6599.978,
+      "max": 8399.976,
+      "mean": 28.6569,
+      "sum": 286397.02,
+      "non_numeric_nan_count": 806,
+      "negative_value_count": 1871,
+      "zero_value_count": 65,
+      "outlier_analysis": {
+        "q1": 1.7288,
+        "q3": 29.364,
+        "iqr": 27.6352,
+        "lower_bound": -39.7241,
+        "upper_bound": 70.8169,
+        "outlier_count": 1881,
+        "outlier_pct": 18.82
+      }
+    }
+  },
+  "categorical_audit": {
+    "Category": {
+      "Office Supplies": 6026,
+      "Furniture": 2121,
+      "Technology": 1847,
+      "nan": 806
+    },
+    "Sub-Category": {
+      "Binders": 1523,
+      "Paper": 1370,
+      "Furnishings": 957,
+      "Phones": 889,
+      "Storage": 846,
+      "nan": 806,
+      "Art": 796,
+      "Accessories": 775,
+      "Chairs": 617,
+      "Appliances": 466,
+      "Labels": 364,
+      "Tables": 319,
+      "Envelopes": 254,
+      "Bookcases": 228,
+      "Fasteners": 217,
+      "Supplies": 190,
+      "Machines": 115,
+      "Copiers": 68
+    },
+    "Region": {
+      "West": 3203,
+      "East": 2848,
+      "Central": 2323,
+      "South": 1620,
+      "nan": 806
+    },
+    "Segment": {
+      "Consumer": 5191,
+      "Corporate": 3020,
+      "Home Office": 1783,
+      "nan": 806
+    },
+    "Ship Mode": {
+      "Standard Class": 5968,
+      "Second Class": 1945,
+      "First Class": 1538,
+      "nan": 806,
+      "Same Day": 543
+    }
+  }
+}

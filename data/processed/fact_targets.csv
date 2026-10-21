@@ -1,0 +1,577 @@
+TargetID,TargetDateKey,Year,Month,YearMonth,Region,Category,TargetRevenue,TargetProfit,TargetMarginPct,TargetType
+1,20150101,2015,1,2015-01,Central,Furniture,2687.99,398.36,0.1482,Synthetic Managerial Budget Target
+2,20150101,2015,1,2015-01,Central,Office Supplies,2789.58,434.9,0.1559,Synthetic Managerial Budget Target
+3,20150101,2015,1,2015-01,Central,Technology,2398.39,394.06,0.1643,Synthetic Managerial Budget Target
+4,20150101,2015,1,2015-01,East,Furniture,3481.51,552.17,0.1586,Synthetic Managerial Budget Target
+5,20150101,2015,1,2015-01,East,Office Supplies,2916.35,433.08,0.1485,Synthetic Managerial Budget Target
+6,20150101,2015,1,2015-01,East,Technology,3981.13,648.13,0.1628,Synthetic Managerial Budget Target
+7,20150101,2015,1,2015-01,South,Furniture,1872.47,299.03,0.1597,Synthetic Managerial Budget Target
+8,20150101,2015,1,2015-01,South,Office Supplies,1919.23,272.15,0.1418,Synthetic Managerial Budget Target
+9,20150101,2015,1,2015-01,South,Technology,2378.79,325.66,0.1369,Synthetic Managerial Budget Target
+10,20150101,2015,1,2015-01,West,Furniture,4192.1,645.16,0.1539,Synthetic Managerial Budget Target
+11,20150101,2015,1,2015-01,West,Office Supplies,3612.26,525.95,0.1456,Synthetic Managerial Budget Target
+12,20150101,2015,1,2015-01,West,Technology,4397.34,711.49,0.1618,Synthetic Managerial Budget Target
+13,20150201,2015,2,2015-02,Central,Furniture,2511.12,353.57,0.1408,Synthetic Managerial Budget Target
+14,20150201,2015,2,2015-02,Central,Office Supplies,2393.61,326.25,0.1363,Synthetic Managerial Budget Target
+15,20150201,2015,2,2015-02,Central,Technology,2271.37,353.2,0.1555,Synthetic Managerial Budget Target
+16,20150201,2015,2,2015-02,East,Furniture,3238.23,531.07,0.164,Synthetic Managerial Budget Target
+17,20150201,2015,2,2015-02,East,Office Supplies,2852.29,416.72,0.1461,Synthetic Managerial Budget Target
+18,20150201,2015,2,2015-02,East,Technology,3799.68,534.61,0.1407,Synthetic Managerial Budget Target
+19,20150201,2015,2,2015-02,South,Furniture,1554.23,232.05,0.1493,Synthetic Managerial Budget Target
+20,20150201,2015,2,2015-02,South,Office Supplies,1704.0,264.29,0.1551,Synthetic Managerial Budget Target
+21,20150201,2015,2,2015-02,South,Technology,2162.96,346.07,0.16,Synthetic Managerial Budget Target
+22,20150201,2015,2,2015-02,West,Furniture,3809.4,550.08,0.1444,Synthetic Managerial Budget Target
+23,20150201,2015,2,2015-02,West,Office Supplies,3424.0,544.76,0.1591,Synthetic Managerial Budget Target
+24,20150201,2015,2,2015-02,West,Technology,3622.63,520.21,0.1436,Synthetic Managerial Budget Target
+25,20150301,2015,3,2015-03,Central,Furniture,2988.02,415.93,0.1392,Synthetic Managerial Budget Target
+26,20150301,2015,3,2015-03,Central,Office Supplies,2732.91,369.49,0.1352,Synthetic Managerial Budget Target
+27,20150301,2015,3,2015-03,Central,Technology,3178.1,492.29,0.1549,Synthetic Managerial Budget Target
+28,20150301,2015,3,2015-03,East,Furniture,3899.33,617.65,0.1584,Synthetic Managerial Budget Target
+29,20150301,2015,3,2015-03,East,Office Supplies,3570.06,543.01,0.1521,Synthetic Managerial Budget Target
+30,20150301,2015,3,2015-03,East,Technology,4273.49,591.45,0.1384,Synthetic Managerial Budget Target
+31,20150301,2015,3,2015-03,South,Furniture,2133.35,318.08,0.1491,Synthetic Managerial Budget Target
+32,20150301,2015,3,2015-03,South,Office Supplies,2234.76,352.87,0.1579,Synthetic Managerial Budget Target
+33,20150301,2015,3,2015-03,South,Technology,2743.39,415.9,0.1516,Synthetic Managerial Budget Target
+34,20150301,2015,3,2015-03,West,Furniture,4486.89,646.56,0.1441,Synthetic Managerial Budget Target
+35,20150301,2015,3,2015-03,West,Office Supplies,3468.15,513.63,0.1481,Synthetic Managerial Budget Target
+36,20150301,2015,3,2015-03,West,Technology,4225.57,622.43,0.1473,Synthetic Managerial Budget Target
+37,20150401,2015,4,2015-04,Central,Furniture,2914.9,413.92,0.142,Synthetic Managerial Budget Target
+38,20150401,2015,4,2015-04,Central,Office Supplies,2485.43,356.41,0.1434,Synthetic Managerial Budget Target
+39,20150401,2015,4,2015-04,Central,Technology,2682.89,415.58,0.1549,Synthetic Managerial Budget Target
+40,20150401,2015,4,2015-04,East,Furniture,3554.41,563.37,0.1585,Synthetic Managerial Budget Target
+41,20150401,2015,4,2015-04,East,Office Supplies,3514.83,517.38,0.1472,Synthetic Managerial Budget Target
+42,20150401,2015,4,2015-04,East,Technology,4677.16,654.8,0.14,Synthetic Managerial Budget Target
+43,20150401,2015,4,2015-04,South,Furniture,1730.15,238.24,0.1377,Synthetic Managerial Budget Target
+44,20150401,2015,4,2015-04,South,Office Supplies,2175.69,323.96,0.1489,Synthetic Managerial Budget Target
+45,20150401,2015,4,2015-04,South,Technology,2318.26,347.74,0.15,Synthetic Managerial Budget Target
+46,20150401,2015,4,2015-04,West,Furniture,3846.07,599.6,0.1559,Synthetic Managerial Budget Target
+47,20150401,2015,4,2015-04,West,Office Supplies,3600.48,527.11,0.1464,Synthetic Managerial Budget Target
+48,20150401,2015,4,2015-04,West,Technology,4059.03,624.68,0.1539,Synthetic Managerial Budget Target
+49,20150501,2015,5,2015-05,Central,Furniture,2947.12,405.52,0.1376,Synthetic Managerial Budget Target
+50,20150501,2015,5,2015-05,Central,Office Supplies,2837.24,465.02,0.1639,Synthetic Managerial Budget Target
+51,20150501,2015,5,2015-05,Central,Technology,3450.57,538.29,0.156,Synthetic Managerial Budget Target
+52,20150501,2015,5,2015-05,East,Furniture,3743.22,614.26,0.1641,Synthetic Managerial Budget Target
+53,20150501,2015,5,2015-05,East,Office Supplies,4051.2,634.01,0.1565,Synthetic Managerial Budget Target
+54,20150501,2015,5,2015-05,East,Technology,4863.23,696.41,0.1432,Synthetic Managerial Budget Target
+55,20150501,2015,5,2015-05,South,Furniture,1982.07,321.29,0.1621,Synthetic Managerial Budget Target
+56,20150501,2015,5,2015-05,South,Office Supplies,2309.48,325.87,0.1411,Synthetic Managerial Budget Target
+57,20150501,2015,5,2015-05,South,Technology,2698.72,411.28,0.1524,Synthetic Managerial Budget Target
+58,20150501,2015,5,2015-05,West,Furniture,4352.31,699.42,0.1607,Synthetic Managerial Budget Target
+59,20150501,2015,5,2015-05,West,Office Supplies,4335.1,678.88,0.1566,Synthetic Managerial Budget Target
+60,20150501,2015,5,2015-05,West,Technology,4705.03,723.63,0.1538,Synthetic Managerial Budget Target
+61,20150601,2015,6,2015-06,Central,Furniture,3269.38,505.12,0.1545,Synthetic Managerial Budget Target
+62,20150601,2015,6,2015-06,Central,Office Supplies,2970.46,438.14,0.1475,Synthetic Managerial Budget Target
+63,20150601,2015,6,2015-06,Central,Technology,2998.96,449.24,0.1498,Synthetic Managerial Budget Target
+64,20150601,2015,6,2015-06,East,Furniture,4010.45,558.66,0.1393,Synthetic Managerial Budget Target
+65,20150601,2015,6,2015-06,East,Office Supplies,3671.93,560.34,0.1526,Synthetic Managerial Budget Target
+66,20150601,2015,6,2015-06,East,Technology,4811.78,783.36,0.1628,Synthetic Managerial Budget Target
+67,20150601,2015,6,2015-06,South,Furniture,2339.72,340.2,0.1454,Synthetic Managerial Budget Target
+68,20150601,2015,6,2015-06,South,Office Supplies,2511.72,340.84,0.1357,Synthetic Managerial Budget Target
+69,20150601,2015,6,2015-06,South,Technology,3280.39,490.42,0.1495,Synthetic Managerial Budget Target
+70,20150601,2015,6,2015-06,West,Furniture,5260.62,723.34,0.1375,Synthetic Managerial Budget Target
+71,20150601,2015,6,2015-06,West,Office Supplies,4314.51,645.88,0.1497,Synthetic Managerial Budget Target
+72,20150601,2015,6,2015-06,West,Technology,5533.13,842.14,0.1522,Synthetic Managerial Budget Target
+73,20150701,2015,7,2015-07,Central,Furniture,3022.57,432.23,0.143,Synthetic Managerial Budget Target
+74,20150701,2015,7,2015-07,Central,Office Supplies,2984.38,449.45,0.1506,Synthetic Managerial Budget Target
+75,20150701,2015,7,2015-07,Central,Technology,3120.41,423.13,0.1356,Synthetic Managerial Budget Target
+76,20150701,2015,7,2015-07,East,Furniture,4234.98,685.64,0.1619,Synthetic Managerial Budget Target
+77,20150701,2015,7,2015-07,East,Office Supplies,3509.91,532.1,0.1516,Synthetic Managerial Budget Target
+78,20150701,2015,7,2015-07,East,Technology,4490.75,696.96,0.1552,Synthetic Managerial Budget Target
+79,20150701,2015,7,2015-07,South,Furniture,2071.51,320.67,0.1548,Synthetic Managerial Budget Target
+80,20150701,2015,7,2015-07,South,Office Supplies,2450.06,387.35,0.1581,Synthetic Managerial Budget Target
+81,20150701,2015,7,2015-07,South,Technology,2574.49,418.35,0.1625,Synthetic Managerial Budget Target
+82,20150701,2015,7,2015-07,West,Furniture,4408.0,599.93,0.1361,Synthetic Managerial Budget Target
+83,20150701,2015,7,2015-07,West,Office Supplies,4149.56,606.25,0.1461,Synthetic Managerial Budget Target
+84,20150701,2015,7,2015-07,West,Technology,5127.22,816.25,0.1592,Synthetic Managerial Budget Target
+85,20150801,2015,8,2015-08,Central,Furniture,3078.98,503.72,0.1636,Synthetic Managerial Budget Target
+86,20150801,2015,8,2015-08,Central,Office Supplies,3120.62,469.65,0.1505,Synthetic Managerial Budget Target
+87,20150801,2015,8,2015-08,Central,Technology,3158.02,515.07,0.1631,Synthetic Managerial Budget Target
+88,20150801,2015,8,2015-08,East,Furniture,3857.39,525.76,0.1363,Synthetic Managerial Budget Target
+89,20150801,2015,8,2015-08,East,Office Supplies,3968.75,654.05,0.1648,Synthetic Managerial Budget Target
+90,20150801,2015,8,2015-08,East,Technology,5643.73,888.89,0.1575,Synthetic Managerial Budget Target
+91,20150801,2015,8,2015-08,South,Furniture,2497.91,404.16,0.1618,Synthetic Managerial Budget Target
+92,20150801,2015,8,2015-08,South,Office Supplies,2472.3,357.25,0.1445,Synthetic Managerial Budget Target
+93,20150801,2015,8,2015-08,South,Technology,3156.97,488.7,0.1548,Synthetic Managerial Budget Target
+94,20150801,2015,8,2015-08,West,Furniture,4810.66,662.91,0.1378,Synthetic Managerial Budget Target
+95,20150801,2015,8,2015-08,West,Office Supplies,4564.66,652.29,0.1429,Synthetic Managerial Budget Target
+96,20150801,2015,8,2015-08,West,Technology,5531.99,786.65,0.1422,Synthetic Managerial Budget Target
+97,20150901,2015,9,2015-09,Central,Furniture,3559.37,569.14,0.1599,Synthetic Managerial Budget Target
+98,20150901,2015,9,2015-09,Central,Office Supplies,3656.42,513.36,0.1404,Synthetic Managerial Budget Target
+99,20150901,2015,9,2015-09,Central,Technology,4131.33,665.97,0.1612,Synthetic Managerial Budget Target
+100,20150901,2015,9,2015-09,East,Furniture,4705.16,678.95,0.1443,Synthetic Managerial Budget Target
+101,20150901,2015,9,2015-09,East,Office Supplies,5175.08,849.75,0.1642,Synthetic Managerial Budget Target
+102,20150901,2015,9,2015-09,East,Technology,6285.89,875.62,0.1393,Synthetic Managerial Budget Target
+103,20150901,2015,9,2015-09,South,Furniture,2481.66,352.15,0.1419,Synthetic Managerial Budget Target
+104,20150901,2015,9,2015-09,South,Office Supplies,2736.45,424.97,0.1553,Synthetic Managerial Budget Target
+105,20150901,2015,9,2015-09,South,Technology,3300.91,495.8,0.1502,Synthetic Managerial Budget Target
+106,20150901,2015,9,2015-09,West,Furniture,6250.31,952.55,0.1524,Synthetic Managerial Budget Target
+107,20150901,2015,9,2015-09,West,Office Supplies,4888.88,777.82,0.1591,Synthetic Managerial Budget Target
+108,20150901,2015,9,2015-09,West,Technology,6396.29,1005.5,0.1572,Synthetic Managerial Budget Target
+109,20151001,2015,10,2015-10,Central,Furniture,3411.47,473.17,0.1387,Synthetic Managerial Budget Target
+110,20151001,2015,10,2015-10,Central,Office Supplies,4149.46,609.56,0.1469,Synthetic Managerial Budget Target
+111,20151001,2015,10,2015-10,Central,Technology,3695.3,553.19,0.1497,Synthetic Managerial Budget Target
+112,20151001,2015,10,2015-10,East,Furniture,5000.82,818.63,0.1637,Synthetic Managerial Budget Target
+113,20151001,2015,10,2015-10,East,Office Supplies,4441.37,722.61,0.1627,Synthetic Managerial Budget Target
+114,20151001,2015,10,2015-10,East,Technology,5376.85,815.67,0.1517,Synthetic Managerial Budget Target
+115,20151001,2015,10,2015-10,South,Furniture,2740.44,378.73,0.1382,Synthetic Managerial Budget Target
+116,20151001,2015,10,2015-10,South,Office Supplies,2622.87,387.14,0.1476,Synthetic Managerial Budget Target
+117,20151001,2015,10,2015-10,South,Technology,3804.22,581.67,0.1529,Synthetic Managerial Budget Target
+118,20151001,2015,10,2015-10,West,Furniture,6282.65,999.57,0.1591,Synthetic Managerial Budget Target
+119,20151001,2015,10,2015-10,West,Office Supplies,4974.29,788.42,0.1585,Synthetic Managerial Budget Target
+120,20151001,2015,10,2015-10,West,Technology,5213.1,720.97,0.1383,Synthetic Managerial Budget Target
+121,20151101,2015,11,2015-11,Central,Furniture,5257.16,835.36,0.1589,Synthetic Managerial Budget Target
+122,20151101,2015,11,2015-11,Central,Office Supplies,4698.36,708.98,0.1509,Synthetic Managerial Budget Target
+123,20151101,2015,11,2015-11,Central,Technology,5216.58,839.87,0.161,Synthetic Managerial Budget Target
+124,20151101,2015,11,2015-11,East,Furniture,6507.51,959.21,0.1474,Synthetic Managerial Budget Target
+125,20151101,2015,11,2015-11,East,Office Supplies,5974.37,883.01,0.1478,Synthetic Managerial Budget Target
+126,20151101,2015,11,2015-11,East,Technology,8191.92,1318.9,0.161,Synthetic Managerial Budget Target
+127,20151101,2015,11,2015-11,South,Furniture,3472.02,494.42,0.1424,Synthetic Managerial Budget Target
+128,20151101,2015,11,2015-11,South,Office Supplies,3537.86,556.86,0.1574,Synthetic Managerial Budget Target
+129,20151101,2015,11,2015-11,South,Technology,4863.53,672.14,0.1382,Synthetic Managerial Budget Target
+130,20151101,2015,11,2015-11,West,Furniture,6827.03,1043.17,0.1528,Synthetic Managerial Budget Target
+131,20151101,2015,11,2015-11,West,Office Supplies,6085.56,971.86,0.1597,Synthetic Managerial Budget Target
+132,20151101,2015,11,2015-11,West,Technology,7372.08,1026.93,0.1393,Synthetic Managerial Budget Target
+133,20151201,2015,12,2015-12,Central,Furniture,5541.53,775.81,0.14,Synthetic Managerial Budget Target
+134,20151201,2015,12,2015-12,Central,Office Supplies,4920.17,686.86,0.1396,Synthetic Managerial Budget Target
+135,20151201,2015,12,2015-12,Central,Technology,4821.76,653.83,0.1356,Synthetic Managerial Budget Target
+136,20151201,2015,12,2015-12,East,Furniture,5930.89,831.51,0.1402,Synthetic Managerial Budget Target
+137,20151201,2015,12,2015-12,East,Office Supplies,5727.12,874.53,0.1527,Synthetic Managerial Budget Target
+138,20151201,2015,12,2015-12,East,Technology,8526.84,1251.74,0.1468,Synthetic Managerial Budget Target
+139,20151201,2015,12,2015-12,South,Furniture,3482.15,522.67,0.1501,Synthetic Managerial Budget Target
+140,20151201,2015,12,2015-12,South,Office Supplies,4211.29,675.91,0.1605,Synthetic Managerial Budget Target
+141,20151201,2015,12,2015-12,South,Technology,4223.69,593.01,0.1404,Synthetic Managerial Budget Target
+142,20151201,2015,12,2015-12,West,Furniture,7358.01,1048.52,0.1425,Synthetic Managerial Budget Target
+143,20151201,2015,12,2015-12,West,Office Supplies,6940.8,1023.77,0.1475,Synthetic Managerial Budget Target
+144,20151201,2015,12,2015-12,West,Technology,7164.36,1047.43,0.1462,Synthetic Managerial Budget Target
+145,20160101,2016,1,2016-01,Central,Furniture,2750.88,379.9,0.1381,Synthetic Managerial Budget Target
+146,20160101,2016,1,2016-01,Central,Office Supplies,2997.16,409.41,0.1366,Synthetic Managerial Budget Target
+147,20160101,2016,1,2016-01,Central,Technology,3115.8,429.98,0.138,Synthetic Managerial Budget Target
+148,20160101,2016,1,2016-01,East,Furniture,3825.14,620.06,0.1621,Synthetic Managerial Budget Target
+149,20160101,2016,1,2016-01,East,Office Supplies,3799.3,604.47,0.1591,Synthetic Managerial Budget Target
+150,20160101,2016,1,2016-01,East,Technology,4701.65,725.46,0.1543,Synthetic Managerial Budget Target
+151,20160101,2016,1,2016-01,South,Furniture,2081.12,289.28,0.139,Synthetic Managerial Budget Target
+152,20160101,2016,1,2016-01,South,Office Supplies,2115.99,318.24,0.1504,Synthetic Managerial Budget Target
+153,20160101,2016,1,2016-01,South,Technology,2740.0,407.99,0.1489,Synthetic Managerial Budget Target
+154,20160101,2016,1,2016-01,West,Furniture,4112.45,634.14,0.1542,Synthetic Managerial Budget Target
+155,20160101,2016,1,2016-01,West,Office Supplies,3498.15,486.94,0.1392,Synthetic Managerial Budget Target
+156,20160101,2016,1,2016-01,West,Technology,4278.27,631.04,0.1475,Synthetic Managerial Budget Target
+157,20160201,2016,2,2016-02,Central,Furniture,2402.23,350.73,0.146,Synthetic Managerial Budget Target
+158,20160201,2016,2,2016-02,Central,Office Supplies,2527.03,365.91,0.1448,Synthetic Managerial Budget Target
+159,20160201,2016,2,2016-02,Central,Technology,2586.04,402.39,0.1556,Synthetic Managerial Budget Target
+160,20160201,2016,2,2016-02,East,Furniture,3167.16,517.83,0.1635,Synthetic Managerial Budget Target
+161,20160201,2016,2,2016-02,East,Office Supplies,3501.0,523.05,0.1494,Synthetic Managerial Budget Target
+162,20160201,2016,2,2016-02,East,Technology,3974.02,600.47,0.1511,Synthetic Managerial Budget Target
+163,20160201,2016,2,2016-02,South,Furniture,1970.65,304.66,0.1546,Synthetic Managerial Budget Target
+164,20160201,2016,2,2016-02,South,Office Supplies,2091.74,315.85,0.151,Synthetic Managerial Budget Target
+165,20160201,2016,2,2016-02,South,Technology,2439.06,350.25,0.1436,Synthetic Managerial Budget Target
+166,20160201,2016,2,2016-02,West,Furniture,4144.47,584.78,0.1411,Synthetic Managerial Budget Target
+167,20160201,2016,2,2016-02,West,Office Supplies,3592.72,577.71,0.1608,Synthetic Managerial Budget Target
+168,20160201,2016,2,2016-02,West,Technology,3684.72,565.24,0.1534,Synthetic Managerial Budget Target
+169,20160301,2016,3,2016-03,Central,Furniture,2822.24,442.53,0.1568,Synthetic Managerial Budget Target
+170,20160301,2016,3,2016-03,Central,Office Supplies,2870.43,468.17,0.1631,Synthetic Managerial Budget Target
+171,20160301,2016,3,2016-03,Central,Technology,2966.63,485.93,0.1638,Synthetic Managerial Budget Target
+172,20160301,2016,3,2016-03,East,Furniture,4296.94,656.57,0.1528,Synthetic Managerial Budget Target
+173,20160301,2016,3,2016-03,East,Office Supplies,4135.58,657.14,0.1589,Synthetic Managerial Budget Target
+174,20160301,2016,3,2016-03,East,Technology,5514.22,786.33,0.1426,Synthetic Managerial Budget Target
+175,20160301,2016,3,2016-03,South,Furniture,2265.36,312.39,0.1379,Synthetic Managerial Budget Target
+176,20160301,2016,3,2016-03,South,Office Supplies,2440.46,341.91,0.1401,Synthetic Managerial Budget Target
+177,20160301,2016,3,2016-03,South,Technology,2918.26,444.16,0.1522,Synthetic Managerial Budget Target
+178,20160301,2016,3,2016-03,West,Furniture,4746.75,715.34,0.1507,Synthetic Managerial Budget Target
+179,20160301,2016,3,2016-03,West,Office Supplies,4426.83,703.87,0.159,Synthetic Managerial Budget Target
+180,20160301,2016,3,2016-03,West,Technology,4864.17,744.22,0.153,Synthetic Managerial Budget Target
+181,20160401,2016,4,2016-04,Central,Furniture,3198.58,443.32,0.1386,Synthetic Managerial Budget Target
+182,20160401,2016,4,2016-04,Central,Office Supplies,2723.15,374.71,0.1376,Synthetic Managerial Budget Target
+183,20160401,2016,4,2016-04,Central,Technology,3143.35,463.96,0.1476,Synthetic Managerial Budget Target
+184,20160401,2016,4,2016-04,East,Furniture,4021.81,623.78,0.1551,Synthetic Managerial Budget Target
+185,20160401,2016,4,2016-04,East,Office Supplies,3526.9,571.36,0.162,Synthetic Managerial Budget Target
+186,20160401,2016,4,2016-04,East,Technology,4997.31,715.12,0.1431,Synthetic Managerial Budget Target
+187,20160401,2016,4,2016-04,South,Furniture,2027.18,292.72,0.1444,Synthetic Managerial Budget Target
+188,20160401,2016,4,2016-04,South,Office Supplies,2068.74,288.38,0.1394,Synthetic Managerial Budget Target
+189,20160401,2016,4,2016-04,South,Technology,2969.93,439.85,0.1481,Synthetic Managerial Budget Target
+190,20160401,2016,4,2016-04,West,Furniture,4384.84,687.98,0.1569,Synthetic Managerial Budget Target
+191,20160401,2016,4,2016-04,West,Office Supplies,3981.95,649.46,0.1631,Synthetic Managerial Budget Target
+192,20160401,2016,4,2016-04,West,Technology,4871.7,727.83,0.1494,Synthetic Managerial Budget Target
+193,20160501,2016,5,2016-05,Central,Furniture,3193.5,525.65,0.1646,Synthetic Managerial Budget Target
+194,20160501,2016,5,2016-05,Central,Office Supplies,3510.5,573.97,0.1635,Synthetic Managerial Budget Target
+195,20160501,2016,5,2016-05,Central,Technology,3126.77,501.85,0.1605,Synthetic Managerial Budget Target
+196,20160501,2016,5,2016-05,East,Furniture,4394.47,609.51,0.1387,Synthetic Managerial Budget Target
+197,20160501,2016,5,2016-05,East,Office Supplies,4200.89,653.66,0.1556,Synthetic Managerial Budget Target
+198,20160501,2016,5,2016-05,East,Technology,4736.36,703.82,0.1486,Synthetic Managerial Budget Target
+199,20160501,2016,5,2016-05,South,Furniture,2521.59,362.86,0.1439,Synthetic Managerial Budget Target
+200,20160501,2016,5,2016-05,South,Office Supplies,2495.79,370.13,0.1483,Synthetic Managerial Budget Target
+201,20160501,2016,5,2016-05,South,Technology,2911.89,473.47,0.1626,Synthetic Managerial Budget Target
+202,20160501,2016,5,2016-05,West,Furniture,5380.82,744.17,0.1383,Synthetic Managerial Budget Target
+203,20160501,2016,5,2016-05,West,Office Supplies,4916.59,793.54,0.1614,Synthetic Managerial Budget Target
+204,20160501,2016,5,2016-05,West,Technology,4911.54,786.34,0.1601,Synthetic Managerial Budget Target
+205,20160601,2016,6,2016-06,Central,Furniture,3162.99,521.89,0.165,Synthetic Managerial Budget Target
+206,20160601,2016,6,2016-06,Central,Office Supplies,3664.62,566.18,0.1545,Synthetic Managerial Budget Target
+207,20160601,2016,6,2016-06,Central,Technology,3278.01,530.71,0.1619,Synthetic Managerial Budget Target
+208,20160601,2016,6,2016-06,East,Furniture,4030.33,573.11,0.1422,Synthetic Managerial Budget Target
+209,20160601,2016,6,2016-06,East,Office Supplies,4003.98,633.83,0.1583,Synthetic Managerial Budget Target
+210,20160601,2016,6,2016-06,East,Technology,5231.13,849.01,0.1623,Synthetic Managerial Budget Target
+211,20160601,2016,6,2016-06,South,Furniture,2568.38,349.56,0.1361,Synthetic Managerial Budget Target
+212,20160601,2016,6,2016-06,South,Office Supplies,2366.71,323.06,0.1365,Synthetic Managerial Budget Target
+213,20160601,2016,6,2016-06,South,Technology,3290.86,523.25,0.159,Synthetic Managerial Budget Target
+214,20160601,2016,6,2016-06,West,Furniture,5035.03,808.12,0.1605,Synthetic Managerial Budget Target
+215,20160601,2016,6,2016-06,West,Office Supplies,4213.69,669.98,0.159,Synthetic Managerial Budget Target
+216,20160601,2016,6,2016-06,West,Technology,5963.64,943.45,0.1582,Synthetic Managerial Budget Target
+217,20160701,2016,7,2016-07,Central,Furniture,3428.3,548.87,0.1601,Synthetic Managerial Budget Target
+218,20160701,2016,7,2016-07,Central,Office Supplies,3006.29,424.19,0.1411,Synthetic Managerial Budget Target
+219,20160701,2016,7,2016-07,Central,Technology,3131.66,470.06,0.1501,Synthetic Managerial Budget Target
+220,20160701,2016,7,2016-07,East,Furniture,4496.92,692.08,0.1539,Synthetic Managerial Budget Target
+221,20160701,2016,7,2016-07,East,Office Supplies,4441.57,620.49,0.1397,Synthetic Managerial Budget Target
+222,20160701,2016,7,2016-07,East,Technology,5589.03,786.94,0.1408,Synthetic Managerial Budget Target
+223,20160701,2016,7,2016-07,South,Furniture,2231.75,348.82,0.1563,Synthetic Managerial Budget Target
+224,20160701,2016,7,2016-07,South,Office Supplies,2787.8,427.37,0.1533,Synthetic Managerial Budget Target
+225,20160701,2016,7,2016-07,South,Technology,2744.41,421.27,0.1535,Synthetic Managerial Budget Target
+226,20160701,2016,7,2016-07,West,Furniture,4549.22,734.7,0.1615,Synthetic Managerial Budget Target
+227,20160701,2016,7,2016-07,West,Office Supplies,4633.76,649.65,0.1402,Synthetic Managerial Budget Target
+228,20160701,2016,7,2016-07,West,Technology,4691.2,659.11,0.1405,Synthetic Managerial Budget Target
+229,20160801,2016,8,2016-08,Central,Furniture,3835.9,570.78,0.1488,Synthetic Managerial Budget Target
+230,20160801,2016,8,2016-08,Central,Office Supplies,3757.62,579.05,0.1541,Synthetic Managerial Budget Target
+231,20160801,2016,8,2016-08,Central,Technology,3664.25,510.8,0.1394,Synthetic Managerial Budget Target
+232,20160801,2016,8,2016-08,East,Furniture,4947.65,712.46,0.144,Synthetic Managerial Budget Target
+233,20160801,2016,8,2016-08,East,Office Supplies,4424.38,690.2,0.156,Synthetic Managerial Budget Target
+234,20160801,2016,8,2016-08,East,Technology,5793.13,945.44,0.1632,Synthetic Managerial Budget Target
+235,20160801,2016,8,2016-08,South,Furniture,2288.27,343.93,0.1503,Synthetic Managerial Budget Target
+236,20160801,2016,8,2016-08,South,Office Supplies,2602.24,388.25,0.1492,Synthetic Managerial Budget Target
+237,20160801,2016,8,2016-08,South,Technology,2943.12,409.09,0.139,Synthetic Managerial Budget Target
+238,20160801,2016,8,2016-08,West,Furniture,5081.97,732.31,0.1441,Synthetic Managerial Budget Target
+239,20160801,2016,8,2016-08,West,Office Supplies,4598.65,704.97,0.1533,Synthetic Managerial Budget Target
+240,20160801,2016,8,2016-08,West,Technology,5608.85,826.74,0.1474,Synthetic Managerial Budget Target
+241,20160901,2016,9,2016-09,Central,Furniture,4110.82,581.68,0.1415,Synthetic Managerial Budget Target
+242,20160901,2016,9,2016-09,Central,Office Supplies,4362.55,630.39,0.1445,Synthetic Managerial Budget Target
+243,20160901,2016,9,2016-09,Central,Technology,3915.36,577.91,0.1476,Synthetic Managerial Budget Target
+244,20160901,2016,9,2016-09,East,Furniture,5417.84,768.25,0.1418,Synthetic Managerial Budget Target
+245,20160901,2016,9,2016-09,East,Office Supplies,5349.32,813.1,0.152,Synthetic Managerial Budget Target
+246,20160901,2016,9,2016-09,East,Technology,7092.33,1095.06,0.1544,Synthetic Managerial Budget Target
+247,20160901,2016,9,2016-09,South,Furniture,3106.54,448.9,0.1445,Synthetic Managerial Budget Target
+248,20160901,2016,9,2016-09,South,Office Supplies,3424.31,518.78,0.1515,Synthetic Managerial Budget Target
+249,20160901,2016,9,2016-09,South,Technology,3832.75,589.48,0.1538,Synthetic Managerial Budget Target
+250,20160901,2016,9,2016-09,West,Furniture,6270.62,943.1,0.1504,Synthetic Managerial Budget Target
+251,20160901,2016,9,2016-09,West,Office Supplies,5955.02,962.33,0.1616,Synthetic Managerial Budget Target
+252,20160901,2016,9,2016-09,West,Technology,7209.27,1082.11,0.1501,Synthetic Managerial Budget Target
+253,20161001,2016,10,2016-10,Central,Furniture,4031.52,641.01,0.159,Synthetic Managerial Budget Target
+254,20161001,2016,10,2016-10,Central,Office Supplies,3923.82,628.2,0.1601,Synthetic Managerial Budget Target
+255,20161001,2016,10,2016-10,Central,Technology,4170.19,577.57,0.1385,Synthetic Managerial Budget Target
+256,20161001,2016,10,2016-10,East,Furniture,4716.57,756.07,0.1603,Synthetic Managerial Budget Target
+257,20161001,2016,10,2016-10,East,Office Supplies,4538.32,650.8,0.1434,Synthetic Managerial Budget Target
+258,20161001,2016,10,2016-10,East,Technology,6253.21,876.7,0.1402,Synthetic Managerial Budget Target
+259,20161001,2016,10,2016-10,South,Furniture,2755.25,433.4,0.1573,Synthetic Managerial Budget Target
+260,20161001,2016,10,2016-10,South,Office Supplies,2746.73,438.93,0.1598,Synthetic Managerial Budget Target
+261,20161001,2016,10,2016-10,South,Technology,4017.81,587.4,0.1462,Synthetic Managerial Budget Target
+262,20161001,2016,10,2016-10,West,Furniture,5713.2,874.12,0.153,Synthetic Managerial Budget Target
+263,20161001,2016,10,2016-10,West,Office Supplies,4954.1,722.8,0.1459,Synthetic Managerial Budget Target
+264,20161001,2016,10,2016-10,West,Technology,6948.19,1145.76,0.1649,Synthetic Managerial Budget Target
+265,20161101,2016,11,2016-11,Central,Furniture,5610.34,809.57,0.1443,Synthetic Managerial Budget Target
+266,20161101,2016,11,2016-11,Central,Office Supplies,5619.72,877.8,0.1562,Synthetic Managerial Budget Target
+267,20161101,2016,11,2016-11,Central,Technology,5367.05,827.6,0.1542,Synthetic Managerial Budget Target
+268,20161101,2016,11,2016-11,East,Furniture,6123.65,865.27,0.1413,Synthetic Managerial Budget Target
+269,20161101,2016,11,2016-11,East,Office Supplies,6674.92,933.82,0.1399,Synthetic Managerial Budget Target
+270,20161101,2016,11,2016-11,East,Technology,7922.93,1268.46,0.1601,Synthetic Managerial Budget Target
+271,20161101,2016,11,2016-11,South,Furniture,4200.41,637.2,0.1517,Synthetic Managerial Budget Target
+272,20161101,2016,11,2016-11,South,Office Supplies,4364.17,718.78,0.1647,Synthetic Managerial Budget Target
+273,20161101,2016,11,2016-11,South,Technology,4516.53,670.25,0.1484,Synthetic Managerial Budget Target
+274,20161101,2016,11,2016-11,West,Furniture,7964.3,1094.29,0.1374,Synthetic Managerial Budget Target
+275,20161101,2016,11,2016-11,West,Office Supplies,7538.03,1115.63,0.148,Synthetic Managerial Budget Target
+276,20161101,2016,11,2016-11,West,Technology,8255.53,1151.65,0.1395,Synthetic Managerial Budget Target
+277,20161201,2016,12,2016-12,Central,Furniture,5084.82,824.76,0.1622,Synthetic Managerial Budget Target
+278,20161201,2016,12,2016-12,Central,Office Supplies,5016.06,712.28,0.142,Synthetic Managerial Budget Target
+279,20161201,2016,12,2016-12,Central,Technology,5430.92,813.01,0.1497,Synthetic Managerial Budget Target
+280,20161201,2016,12,2016-12,East,Furniture,7244.14,1085.17,0.1498,Synthetic Managerial Budget Target
+281,20161201,2016,12,2016-12,East,Office Supplies,6232.18,886.84,0.1423,Synthetic Managerial Budget Target
+282,20161201,2016,12,2016-12,East,Technology,9529.43,1468.49,0.1541,Synthetic Managerial Budget Target
+283,20161201,2016,12,2016-12,South,Furniture,4049.14,628.02,0.1551,Synthetic Managerial Budget Target
+284,20161201,2016,12,2016-12,South,Office Supplies,4443.6,607.44,0.1367,Synthetic Managerial Budget Target
+285,20161201,2016,12,2016-12,South,Technology,4926.12,744.83,0.1512,Synthetic Managerial Budget Target
+286,20161201,2016,12,2016-12,West,Furniture,8137.42,1304.43,0.1603,Synthetic Managerial Budget Target
+287,20161201,2016,12,2016-12,West,Office Supplies,7350.68,1162.14,0.1581,Synthetic Managerial Budget Target
+288,20161201,2016,12,2016-12,West,Technology,9271.47,1391.65,0.1501,Synthetic Managerial Budget Target
+289,20170101,2017,1,2017-01,Central,Furniture,3261.92,497.77,0.1526,Synthetic Managerial Budget Target
+290,20170101,2017,1,2017-01,Central,Office Supplies,3286.07,477.14,0.1452,Synthetic Managerial Budget Target
+291,20170101,2017,1,2017-01,Central,Technology,3109.81,469.27,0.1509,Synthetic Managerial Budget Target
+292,20170101,2017,1,2017-01,East,Furniture,3542.01,520.68,0.147,Synthetic Managerial Budget Target
+293,20170101,2017,1,2017-01,East,Office Supplies,4099.21,630.87,0.1539,Synthetic Managerial Budget Target
+294,20170101,2017,1,2017-01,East,Technology,4489.99,651.95,0.1452,Synthetic Managerial Budget Target
+295,20170101,2017,1,2017-01,South,Furniture,1994.33,270.63,0.1357,Synthetic Managerial Budget Target
+296,20170101,2017,1,2017-01,South,Office Supplies,2511.39,372.69,0.1484,Synthetic Managerial Budget Target
+297,20170101,2017,1,2017-01,South,Technology,2654.71,406.17,0.153,Synthetic Managerial Budget Target
+298,20170101,2017,1,2017-01,West,Furniture,4106.14,588.41,0.1433,Synthetic Managerial Budget Target
+299,20170101,2017,1,2017-01,West,Office Supplies,4213.15,648.83,0.154,Synthetic Managerial Budget Target
+300,20170101,2017,1,2017-01,West,Technology,5200.46,798.79,0.1536,Synthetic Managerial Budget Target
+301,20170201,2017,2,2017-02,Central,Furniture,2776.54,438.14,0.1578,Synthetic Managerial Budget Target
+302,20170201,2017,2,2017-02,Central,Office Supplies,3100.54,485.54,0.1566,Synthetic Managerial Budget Target
+303,20170201,2017,2,2017-02,Central,Technology,3202.1,507.53,0.1585,Synthetic Managerial Budget Target
+304,20170201,2017,2,2017-02,East,Furniture,3919.4,542.44,0.1384,Synthetic Managerial Budget Target
+305,20170201,2017,2,2017-02,East,Office Supplies,3682.05,545.68,0.1482,Synthetic Managerial Budget Target
+306,20170201,2017,2,2017-02,East,Technology,4567.43,706.12,0.1546,Synthetic Managerial Budget Target
+307,20170201,2017,2,2017-02,South,Furniture,2206.96,363.04,0.1645,Synthetic Managerial Budget Target
+308,20170201,2017,2,2017-02,South,Office Supplies,2039.89,320.26,0.157,Synthetic Managerial Budget Target
+309,20170201,2017,2,2017-02,South,Technology,2732.23,397.27,0.1454,Synthetic Managerial Budget Target
+310,20170201,2017,2,2017-02,West,Furniture,3943.86,537.15,0.1362,Synthetic Managerial Budget Target
+311,20170201,2017,2,2017-02,West,Office Supplies,3994.4,597.96,0.1497,Synthetic Managerial Budget Target
+312,20170201,2017,2,2017-02,West,Technology,4857.4,723.27,0.1489,Synthetic Managerial Budget Target
+313,20170301,2017,3,2017-03,Central,Furniture,3748.32,552.13,0.1473,Synthetic Managerial Budget Target
+314,20170301,2017,3,2017-03,Central,Office Supplies,3680.75,506.1,0.1375,Synthetic Managerial Budget Target
+315,20170301,2017,3,2017-03,Central,Technology,3568.83,567.8,0.1591,Synthetic Managerial Budget Target
+316,20170301,2017,3,2017-03,East,Furniture,4815.89,769.1,0.1597,Synthetic Managerial Budget Target
+317,20170301,2017,3,2017-03,East,Office Supplies,3814.03,557.61,0.1462,Synthetic Managerial Budget Target
+318,20170301,2017,3,2017-03,East,Technology,4931.75,682.06,0.1383,Synthetic Managerial Budget Target
+319,20170301,2017,3,2017-03,South,Furniture,2521.07,394.3,0.1564,Synthetic Managerial Budget Target
+320,20170301,2017,3,2017-03,South,Office Supplies,2757.44,443.95,0.161,Synthetic Managerial Budget Target
+321,20170301,2017,3,2017-03,South,Technology,3310.34,526.34,0.159,Synthetic Managerial Budget Target
+322,20170301,2017,3,2017-03,West,Furniture,4701.99,667.68,0.142,Synthetic Managerial Budget Target
+323,20170301,2017,3,2017-03,West,Office Supplies,4692.52,754.09,0.1607,Synthetic Managerial Budget Target
+324,20170301,2017,3,2017-03,West,Technology,4737.62,712.54,0.1504,Synthetic Managerial Budget Target
+325,20170401,2017,4,2017-04,Central,Furniture,3314.77,450.48,0.1359,Synthetic Managerial Budget Target
+326,20170401,2017,4,2017-04,Central,Office Supplies,3180.72,514.96,0.1619,Synthetic Managerial Budget Target
+327,20170401,2017,4,2017-04,Central,Technology,3444.54,489.47,0.1421,Synthetic Managerial Budget Target
+328,20170401,2017,4,2017-04,East,Furniture,4466.41,649.42,0.1454,Synthetic Managerial Budget Target
+329,20170401,2017,4,2017-04,East,Office Supplies,4315.59,621.44,0.144,Synthetic Managerial Budget Target
+330,20170401,2017,4,2017-04,East,Technology,5262.59,773.07,0.1469,Synthetic Managerial Budget Target
+331,20170401,2017,4,2017-04,South,Furniture,2169.53,350.6,0.1616,Synthetic Managerial Budget Target
+332,20170401,2017,4,2017-04,South,Office Supplies,2276.59,313.03,0.1375,Synthetic Managerial Budget Target
+333,20170401,2017,4,2017-04,South,Technology,2854.3,446.7,0.1565,Synthetic Managerial Budget Target
+334,20170401,2017,4,2017-04,West,Furniture,5254.38,866.97,0.165,Synthetic Managerial Budget Target
+335,20170401,2017,4,2017-04,West,Office Supplies,4105.42,604.32,0.1472,Synthetic Managerial Budget Target
+336,20170401,2017,4,2017-04,West,Technology,4606.28,701.08,0.1522,Synthetic Managerial Budget Target
+337,20170501,2017,5,2017-05,Central,Furniture,3984.48,621.58,0.156,Synthetic Managerial Budget Target
+338,20170501,2017,5,2017-05,Central,Office Supplies,3735.91,548.43,0.1468,Synthetic Managerial Budget Target
+339,20170501,2017,5,2017-05,Central,Technology,4077.25,611.18,0.1499,Synthetic Managerial Budget Target
+340,20170501,2017,5,2017-05,East,Furniture,4280.84,625.0,0.146,Synthetic Managerial Budget Target
+341,20170501,2017,5,2017-05,East,Office Supplies,4068.59,574.08,0.1411,Synthetic Managerial Budget Target
+342,20170501,2017,5,2017-05,East,Technology,5181.83,770.02,0.1486,Synthetic Managerial Budget Target
+343,20170501,2017,5,2017-05,South,Furniture,2646.1,384.48,0.1453,Synthetic Managerial Budget Target
+344,20170501,2017,5,2017-05,South,Office Supplies,2703.54,442.84,0.1638,Synthetic Managerial Budget Target
+345,20170501,2017,5,2017-05,South,Technology,3514.34,531.37,0.1512,Synthetic Managerial Budget Target
+346,20170501,2017,5,2017-05,West,Furniture,5268.24,852.93,0.1619,Synthetic Managerial Budget Target
+347,20170501,2017,5,2017-05,West,Office Supplies,4552.74,659.24,0.1448,Synthetic Managerial Budget Target
+348,20170501,2017,5,2017-05,West,Technology,6149.43,927.95,0.1509,Synthetic Managerial Budget Target
+349,20170601,2017,6,2017-06,Central,Furniture,3991.02,609.43,0.1527,Synthetic Managerial Budget Target
+350,20170601,2017,6,2017-06,Central,Office Supplies,3993.43,575.05,0.144,Synthetic Managerial Budget Target
+351,20170601,2017,6,2017-06,Central,Technology,3713.68,537.37,0.1447,Synthetic Managerial Budget Target
+352,20170601,2017,6,2017-06,East,Furniture,4541.7,732.12,0.1612,Synthetic Managerial Budget Target
+353,20170601,2017,6,2017-06,East,Office Supplies,4522.78,686.56,0.1518,Synthetic Managerial Budget Target
+354,20170601,2017,6,2017-06,East,Technology,6523.86,1034.03,0.1585,Synthetic Managerial Budget Target
+355,20170601,2017,6,2017-06,South,Furniture,2674.89,399.36,0.1493,Synthetic Managerial Budget Target
+356,20170601,2017,6,2017-06,South,Office Supplies,3224.51,500.44,0.1552,Synthetic Managerial Budget Target
+357,20170601,2017,6,2017-06,South,Technology,3758.5,609.25,0.1621,Synthetic Managerial Budget Target
+358,20170601,2017,6,2017-06,West,Furniture,6213.83,873.66,0.1406,Synthetic Managerial Budget Target
+359,20170601,2017,6,2017-06,West,Office Supplies,5176.81,714.92,0.1381,Synthetic Managerial Budget Target
+360,20170601,2017,6,2017-06,West,Technology,6152.37,1007.14,0.1637,Synthetic Managerial Budget Target
+361,20170701,2017,7,2017-07,Central,Furniture,3597.92,532.49,0.148,Synthetic Managerial Budget Target
+362,20170701,2017,7,2017-07,Central,Office Supplies,3281.14,537.45,0.1638,Synthetic Managerial Budget Target
+363,20170701,2017,7,2017-07,Central,Technology,3403.45,463.55,0.1362,Synthetic Managerial Budget Target
+364,20170701,2017,7,2017-07,East,Furniture,4396.5,602.32,0.137,Synthetic Managerial Budget Target
+365,20170701,2017,7,2017-07,East,Office Supplies,4456.67,670.73,0.1505,Synthetic Managerial Budget Target
+366,20170701,2017,7,2017-07,East,Technology,5562.18,759.24,0.1365,Synthetic Managerial Budget Target
+367,20170701,2017,7,2017-07,South,Furniture,2347.52,343.91,0.1465,Synthetic Managerial Budget Target
+368,20170701,2017,7,2017-07,South,Office Supplies,2483.45,387.17,0.1559,Synthetic Managerial Budget Target
+369,20170701,2017,7,2017-07,South,Technology,3111.32,448.34,0.1441,Synthetic Managerial Budget Target
+370,20170701,2017,7,2017-07,West,Furniture,5402.98,796.94,0.1475,Synthetic Managerial Budget Target
+371,20170701,2017,7,2017-07,West,Office Supplies,4301.8,595.37,0.1384,Synthetic Managerial Budget Target
+372,20170701,2017,7,2017-07,West,Technology,6091.43,822.34,0.135,Synthetic Managerial Budget Target
+373,20170801,2017,8,2017-08,Central,Furniture,3793.97,567.96,0.1497,Synthetic Managerial Budget Target
+374,20170801,2017,8,2017-08,Central,Office Supplies,3718.52,549.97,0.1479,Synthetic Managerial Budget Target
+375,20170801,2017,8,2017-08,Central,Technology,4185.8,670.57,0.1602,Synthetic Managerial Budget Target
+376,20170801,2017,8,2017-08,East,Furniture,4656.36,673.78,0.1447,Synthetic Managerial Budget Target
+377,20170801,2017,8,2017-08,East,Office Supplies,4479.74,669.27,0.1494,Synthetic Managerial Budget Target
+378,20170801,2017,8,2017-08,East,Technology,6375.85,904.1,0.1418,Synthetic Managerial Budget Target
+379,20170801,2017,8,2017-08,South,Furniture,2610.01,425.17,0.1629,Synthetic Managerial Budget Target
+380,20170801,2017,8,2017-08,South,Office Supplies,2613.7,388.92,0.1488,Synthetic Managerial Budget Target
+381,20170801,2017,8,2017-08,South,Technology,3678.04,513.09,0.1395,Synthetic Managerial Budget Target
+382,20170801,2017,8,2017-08,West,Furniture,5253.1,730.71,0.1391,Synthetic Managerial Budget Target
+383,20170801,2017,8,2017-08,West,Office Supplies,5581.51,755.18,0.1353,Synthetic Managerial Budget Target
+384,20170801,2017,8,2017-08,West,Technology,5538.05,752.62,0.1359,Synthetic Managerial Budget Target
+385,20170901,2017,9,2017-09,Central,Furniture,4187.7,643.23,0.1536,Synthetic Managerial Budget Target
+386,20170901,2017,9,2017-09,Central,Office Supplies,4406.36,670.21,0.1521,Synthetic Managerial Budget Target
+387,20170901,2017,9,2017-09,Central,Technology,4865.23,780.87,0.1605,Synthetic Managerial Budget Target
+388,20170901,2017,9,2017-09,East,Furniture,5298.47,850.93,0.1606,Synthetic Managerial Budget Target
+389,20170901,2017,9,2017-09,East,Office Supplies,5904.27,826.01,0.1399,Synthetic Managerial Budget Target
+390,20170901,2017,9,2017-09,East,Technology,7865.93,1264.05,0.1607,Synthetic Managerial Budget Target
+391,20170901,2017,9,2017-09,South,Furniture,3103.69,504.66,0.1626,Synthetic Managerial Budget Target
+392,20170901,2017,9,2017-09,South,Office Supplies,3481.15,532.96,0.1531,Synthetic Managerial Budget Target
+393,20170901,2017,9,2017-09,South,Technology,4710.43,686.78,0.1458,Synthetic Managerial Budget Target
+394,20170901,2017,9,2017-09,West,Furniture,7562.18,1093.49,0.1446,Synthetic Managerial Budget Target
+395,20170901,2017,9,2017-09,West,Office Supplies,6592.27,1008.62,0.153,Synthetic Managerial Budget Target
+396,20170901,2017,9,2017-09,West,Technology,6748.83,994.78,0.1474,Synthetic Managerial Budget Target
+397,20171001,2017,10,2017-10,Central,Furniture,4207.35,577.67,0.1373,Synthetic Managerial Budget Target
+398,20171001,2017,10,2017-10,Central,Office Supplies,4004.32,582.23,0.1454,Synthetic Managerial Budget Target
+399,20171001,2017,10,2017-10,Central,Technology,4074.64,570.45,0.14,Synthetic Managerial Budget Target
+400,20171001,2017,10,2017-10,East,Furniture,5979.83,934.05,0.1562,Synthetic Managerial Budget Target
+401,20171001,2017,10,2017-10,East,Office Supplies,5793.62,837.18,0.1445,Synthetic Managerial Budget Target
+402,20171001,2017,10,2017-10,East,Technology,7708.5,1177.86,0.1528,Synthetic Managerial Budget Target
+403,20171001,2017,10,2017-10,South,Furniture,2879.26,401.08,0.1393,Synthetic Managerial Budget Target
+404,20171001,2017,10,2017-10,South,Office Supplies,3508.19,491.85,0.1402,Synthetic Managerial Budget Target
+405,20171001,2017,10,2017-10,South,Technology,4074.14,671.42,0.1648,Synthetic Managerial Budget Target
+406,20171001,2017,10,2017-10,West,Furniture,6017.36,815.35,0.1355,Synthetic Managerial Budget Target
+407,20171001,2017,10,2017-10,West,Office Supplies,6560.38,1000.46,0.1525,Synthetic Managerial Budget Target
+408,20171001,2017,10,2017-10,West,Technology,6318.46,1022.96,0.1619,Synthetic Managerial Budget Target
+409,20171101,2017,11,2017-11,Central,Furniture,6268.9,947.23,0.1511,Synthetic Managerial Budget Target
+410,20171101,2017,11,2017-11,Central,Office Supplies,6053.79,866.9,0.1432,Synthetic Managerial Budget Target
+411,20171101,2017,11,2017-11,Central,Technology,5413.19,827.14,0.1528,Synthetic Managerial Budget Target
+412,20171101,2017,11,2017-11,East,Furniture,7164.47,1109.78,0.1549,Synthetic Managerial Budget Target
+413,20171101,2017,11,2017-11,East,Office Supplies,7794.45,1056.15,0.1355,Synthetic Managerial Budget Target
+414,20171101,2017,11,2017-11,East,Technology,9549.65,1355.1,0.1419,Synthetic Managerial Budget Target
+415,20171101,2017,11,2017-11,South,Furniture,4483.32,639.32,0.1426,Synthetic Managerial Budget Target
+416,20171101,2017,11,2017-11,South,Office Supplies,4543.31,688.77,0.1516,Synthetic Managerial Budget Target
+417,20171101,2017,11,2017-11,South,Technology,5238.05,813.47,0.1553,Synthetic Managerial Budget Target
+418,20171101,2017,11,2017-11,West,Furniture,9361.8,1422.99,0.152,Synthetic Managerial Budget Target
+419,20171101,2017,11,2017-11,West,Office Supplies,8241.35,1355.7,0.1645,Synthetic Managerial Budget Target
+420,20171101,2017,11,2017-11,West,Technology,8918.92,1341.41,0.1504,Synthetic Managerial Budget Target
+421,20171201,2017,12,2017-12,Central,Furniture,5331.79,847.22,0.1589,Synthetic Managerial Budget Target
+422,20171201,2017,12,2017-12,Central,Office Supplies,6124.92,901.59,0.1472,Synthetic Managerial Budget Target
+423,20171201,2017,12,2017-12,Central,Technology,5660.06,915.23,0.1617,Synthetic Managerial Budget Target
+424,20171201,2017,12,2017-12,East,Furniture,7584.53,1179.39,0.1555,Synthetic Managerial Budget Target
+425,20171201,2017,12,2017-12,East,Office Supplies,6918.04,1133.17,0.1638,Synthetic Managerial Budget Target
+426,20171201,2017,12,2017-12,East,Technology,8981.98,1266.46,0.141,Synthetic Managerial Budget Target
+427,20171201,2017,12,2017-12,South,Furniture,4623.74,750.9,0.1624,Synthetic Managerial Budget Target
+428,20171201,2017,12,2017-12,South,Office Supplies,4293.64,640.18,0.1491,Synthetic Managerial Budget Target
+429,20171201,2017,12,2017-12,South,Technology,5834.46,941.68,0.1614,Synthetic Managerial Budget Target
+430,20171201,2017,12,2017-12,West,Furniture,8974.08,1350.6,0.1505,Synthetic Managerial Budget Target
+431,20171201,2017,12,2017-12,West,Office Supplies,8495.6,1332.96,0.1569,Synthetic Managerial Budget Target
+432,20171201,2017,12,2017-12,West,Technology,9985.76,1518.83,0.1521,Synthetic Managerial Budget Target
+433,20180101,2018,1,2018-01,Central,Furniture,3004.45,487.02,0.1621,Synthetic Managerial Budget Target
+434,20180101,2018,1,2018-01,Central,Office Supplies,3631.66,577.07,0.1589,Synthetic Managerial Budget Target
+435,20180101,2018,1,2018-01,Central,Technology,3122.24,440.55,0.1411,Synthetic Managerial Budget Target
+436,20180101,2018,1,2018-01,East,Furniture,4509.29,611.91,0.1357,Synthetic Managerial Budget Target
+437,20180101,2018,1,2018-01,East,Office Supplies,4572.92,669.02,0.1463,Synthetic Managerial Budget Target
+438,20180101,2018,1,2018-01,East,Technology,5588.15,903.05,0.1616,Synthetic Managerial Budget Target
+439,20180101,2018,1,2018-01,South,Furniture,2303.57,333.1,0.1446,Synthetic Managerial Budget Target
+440,20180101,2018,1,2018-01,South,Office Supplies,2587.83,394.39,0.1524,Synthetic Managerial Budget Target
+441,20180101,2018,1,2018-01,South,Technology,2993.67,458.33,0.1531,Synthetic Managerial Budget Target
+442,20180101,2018,1,2018-01,West,Furniture,5571.37,830.13,0.149,Synthetic Managerial Budget Target
+443,20180101,2018,1,2018-01,West,Office Supplies,4141.92,605.96,0.1463,Synthetic Managerial Budget Target
+444,20180101,2018,1,2018-01,West,Technology,5053.43,701.92,0.1389,Synthetic Managerial Budget Target
+445,20180201,2018,2,2018-02,Central,Furniture,2843.95,442.23,0.1555,Synthetic Managerial Budget Target
+446,20180201,2018,2,2018-02,Central,Office Supplies,3023.05,494.57,0.1636,Synthetic Managerial Budget Target
+447,20180201,2018,2,2018-02,Central,Technology,3016.26,416.24,0.138,Synthetic Managerial Budget Target
+448,20180201,2018,2,2018-02,East,Furniture,4217.46,680.7,0.1614,Synthetic Managerial Budget Target
+449,20180201,2018,2,2018-02,East,Office Supplies,3667.08,517.42,0.1411,Synthetic Managerial Budget Target
+450,20180201,2018,2,2018-02,East,Technology,4625.95,697.13,0.1507,Synthetic Managerial Budget Target
+451,20180201,2018,2,2018-02,South,Furniture,2186.1,312.18,0.1428,Synthetic Managerial Budget Target
+452,20180201,2018,2,2018-02,South,Office Supplies,2119.96,316.72,0.1494,Synthetic Managerial Budget Target
+453,20180201,2018,2,2018-02,South,Technology,3142.75,485.87,0.1546,Synthetic Managerial Budget Target
+454,20180201,2018,2,2018-02,West,Furniture,4736.49,655.06,0.1383,Synthetic Managerial Budget Target
+455,20180201,2018,2,2018-02,West,Office Supplies,3917.1,563.28,0.1438,Synthetic Managerial Budget Target
+456,20180201,2018,2,2018-02,West,Technology,5114.44,824.96,0.1613,Synthetic Managerial Budget Target
+457,20180301,2018,3,2018-03,Central,Furniture,4066.23,668.89,0.1645,Synthetic Managerial Budget Target
+458,20180301,2018,3,2018-03,Central,Office Supplies,4214.68,689.52,0.1636,Synthetic Managerial Budget Target
+459,20180301,2018,3,2018-03,Central,Technology,3514.34,488.84,0.1391,Synthetic Managerial Budget Target
+460,20180301,2018,3,2018-03,East,Furniture,4637.43,703.03,0.1516,Synthetic Managerial Budget Target
+461,20180301,2018,3,2018-03,East,Office Supplies,4264.35,684.0,0.1604,Synthetic Managerial Budget Target
+462,20180301,2018,3,2018-03,East,Technology,6195.61,937.4,0.1513,Synthetic Managerial Budget Target
+463,20180301,2018,3,2018-03,South,Furniture,2474.48,352.86,0.1426,Synthetic Managerial Budget Target
+464,20180301,2018,3,2018-03,South,Office Supplies,2647.5,425.19,0.1606,Synthetic Managerial Budget Target
+465,20180301,2018,3,2018-03,South,Technology,3527.56,554.18,0.1571,Synthetic Managerial Budget Target
+466,20180301,2018,3,2018-03,West,Furniture,5496.25,803.0,0.1461,Synthetic Managerial Budget Target
+467,20180301,2018,3,2018-03,West,Office Supplies,4926.96,777.47,0.1578,Synthetic Managerial Budget Target
+468,20180301,2018,3,2018-03,West,Technology,6220.23,878.3,0.1412,Synthetic Managerial Budget Target
+469,20180401,2018,4,2018-04,Central,Furniture,3858.19,534.75,0.1386,Synthetic Managerial Budget Target
+470,20180401,2018,4,2018-04,Central,Office Supplies,3898.09,537.94,0.138,Synthetic Managerial Budget Target
+471,20180401,2018,4,2018-04,Central,Technology,3464.16,555.65,0.1604,Synthetic Managerial Budget Target
+472,20180401,2018,4,2018-04,East,Furniture,4237.92,624.67,0.1474,Synthetic Managerial Budget Target
+473,20180401,2018,4,2018-04,East,Office Supplies,4359.2,620.75,0.1424,Synthetic Managerial Budget Target
+474,20180401,2018,4,2018-04,East,Technology,5949.24,954.85,0.1605,Synthetic Managerial Budget Target
+475,20180401,2018,4,2018-04,South,Furniture,2725.49,395.74,0.1452,Synthetic Managerial Budget Target
+476,20180401,2018,4,2018-04,South,Office Supplies,2713.7,386.7,0.1425,Synthetic Managerial Budget Target
+477,20180401,2018,4,2018-04,South,Technology,3074.23,429.78,0.1398,Synthetic Managerial Budget Target
+478,20180401,2018,4,2018-04,West,Furniture,5948.38,961.26,0.1616,Synthetic Managerial Budget Target
+479,20180401,2018,4,2018-04,West,Office Supplies,5029.29,756.91,0.1505,Synthetic Managerial Budget Target
+480,20180401,2018,4,2018-04,West,Technology,5508.71,831.26,0.1509,Synthetic Managerial Budget Target
+481,20180501,2018,5,2018-05,Central,Furniture,3984.75,589.74,0.148,Synthetic Managerial Budget Target
+482,20180501,2018,5,2018-05,Central,Office Supplies,3700.73,513.66,0.1388,Synthetic Managerial Budget Target
+483,20180501,2018,5,2018-05,Central,Technology,4525.65,676.58,0.1495,Synthetic Managerial Budget Target
+484,20180501,2018,5,2018-05,East,Furniture,5650.25,790.47,0.1399,Synthetic Managerial Budget Target
+485,20180501,2018,5,2018-05,East,Office Supplies,5019.33,708.73,0.1412,Synthetic Managerial Budget Target
+486,20180501,2018,5,2018-05,East,Technology,6043.45,821.3,0.1359,Synthetic Managerial Budget Target
+487,20180501,2018,5,2018-05,South,Furniture,2590.88,421.02,0.1625,Synthetic Managerial Budget Target
+488,20180501,2018,5,2018-05,South,Office Supplies,2911.87,446.1,0.1532,Synthetic Managerial Budget Target
+489,20180501,2018,5,2018-05,South,Technology,3637.93,534.78,0.147,Synthetic Managerial Budget Target
+490,20180501,2018,5,2018-05,West,Furniture,6139.06,863.15,0.1406,Synthetic Managerial Budget Target
+491,20180501,2018,5,2018-05,West,Office Supplies,5908.13,942.35,0.1595,Synthetic Managerial Budget Target
+492,20180501,2018,5,2018-05,West,Technology,6543.7,975.67,0.1491,Synthetic Managerial Budget Target
+493,20180601,2018,6,2018-06,Central,Furniture,3850.38,626.07,0.1626,Synthetic Managerial Budget Target
+494,20180601,2018,6,2018-06,Central,Office Supplies,4104.52,560.27,0.1365,Synthetic Managerial Budget Target
+495,20180601,2018,6,2018-06,Central,Technology,4188.8,665.18,0.1588,Synthetic Managerial Budget Target
+496,20180601,2018,6,2018-06,East,Furniture,5566.21,876.68,0.1575,Synthetic Managerial Budget Target
+497,20180601,2018,6,2018-06,East,Office Supplies,5576.47,788.51,0.1414,Synthetic Managerial Budget Target
+498,20180601,2018,6,2018-06,East,Technology,7385.0,1093.72,0.1481,Synthetic Managerial Budget Target
+499,20180601,2018,6,2018-06,South,Furniture,3080.12,416.12,0.1351,Synthetic Managerial Budget Target
+500,20180601,2018,6,2018-06,South,Office Supplies,3551.48,509.28,0.1434,Synthetic Managerial Budget Target
+501,20180601,2018,6,2018-06,South,Technology,3493.49,519.48,0.1487,Synthetic Managerial Budget Target
+502,20180601,2018,6,2018-06,West,Furniture,5904.07,824.21,0.1396,Synthetic Managerial Budget Target
+503,20180601,2018,6,2018-06,West,Office Supplies,5790.92,850.11,0.1468,Synthetic Managerial Budget Target
+504,20180601,2018,6,2018-06,West,Technology,7169.8,1036.75,0.1446,Synthetic Managerial Budget Target
+505,20180701,2018,7,2018-07,Central,Furniture,4151.3,617.71,0.1488,Synthetic Managerial Budget Target
+506,20180701,2018,7,2018-07,Central,Office Supplies,4173.82,638.59,0.153,Synthetic Managerial Budget Target
+507,20180701,2018,7,2018-07,Central,Technology,4087.49,668.3,0.1635,Synthetic Managerial Budget Target
+508,20180701,2018,7,2018-07,East,Furniture,4953.85,695.03,0.1403,Synthetic Managerial Budget Target
+509,20180701,2018,7,2018-07,East,Office Supplies,5155.63,826.96,0.1604,Synthetic Managerial Budget Target
+510,20180701,2018,7,2018-07,East,Technology,5740.89,852.52,0.1485,Synthetic Managerial Budget Target
+511,20180701,2018,7,2018-07,South,Furniture,3077.44,484.7,0.1575,Synthetic Managerial Budget Target
+512,20180701,2018,7,2018-07,South,Office Supplies,3363.51,507.55,0.1509,Synthetic Managerial Budget Target
+513,20180701,2018,7,2018-07,South,Technology,3796.79,547.12,0.1441,Synthetic Managerial Budget Target
+514,20180701,2018,7,2018-07,West,Furniture,6702.11,978.51,0.146,Synthetic Managerial Budget Target
+515,20180701,2018,7,2018-07,West,Office Supplies,5611.94,825.52,0.1471,Synthetic Managerial Budget Target
+516,20180701,2018,7,2018-07,West,Technology,6295.57,985.89,0.1566,Synthetic Managerial Budget Target
+517,20180801,2018,8,2018-08,Central,Furniture,4180.5,678.08,0.1622,Synthetic Managerial Budget Target
+518,20180801,2018,8,2018-08,Central,Office Supplies,4178.18,645.11,0.1544,Synthetic Managerial Budget Target
+519,20180801,2018,8,2018-08,Central,Technology,4188.76,616.59,0.1472,Synthetic Managerial Budget Target
+520,20180801,2018,8,2018-08,East,Furniture,5346.27,742.06,0.1388,Synthetic Managerial Budget Target
+521,20180801,2018,8,2018-08,East,Office Supplies,4759.93,737.79,0.155,Synthetic Managerial Budget Target
+522,20180801,2018,8,2018-08,East,Technology,6982.64,1081.61,0.1549,Synthetic Managerial Budget Target
+523,20180801,2018,8,2018-08,South,Furniture,2668.96,386.47,0.1448,Synthetic Managerial Budget Target
+524,20180801,2018,8,2018-08,South,Office Supplies,2985.65,472.63,0.1583,Synthetic Managerial Budget Target
+525,20180801,2018,8,2018-08,South,Technology,4180.28,595.27,0.1424,Synthetic Managerial Budget Target
+526,20180801,2018,8,2018-08,West,Furniture,6674.53,927.09,0.1389,Synthetic Managerial Budget Target
+527,20180801,2018,8,2018-08,West,Office Supplies,5344.46,743.95,0.1392,Synthetic Managerial Budget Target
+528,20180801,2018,8,2018-08,West,Technology,6239.92,968.44,0.1552,Synthetic Managerial Budget Target
+529,20180901,2018,9,2018-09,Central,Furniture,5511.11,777.62,0.1411,Synthetic Managerial Budget Target
+530,20180901,2018,9,2018-09,Central,Office Supplies,5198.31,810.94,0.156,Synthetic Managerial Budget Target
+531,20180901,2018,9,2018-09,Central,Technology,5783.56,886.62,0.1533,Synthetic Managerial Budget Target
+532,20180901,2018,9,2018-09,East,Furniture,6202.22,953.9,0.1538,Synthetic Managerial Budget Target
+533,20180901,2018,9,2018-09,East,Office Supplies,6084.17,999.63,0.1643,Synthetic Managerial Budget Target
+534,20180901,2018,9,2018-09,East,Technology,7988.16,1242.96,0.1556,Synthetic Managerial Budget Target
+535,20180901,2018,9,2018-09,South,Furniture,3233.63,475.34,0.147,Synthetic Managerial Budget Target
+536,20180901,2018,9,2018-09,South,Office Supplies,4197.34,643.45,0.1533,Synthetic Managerial Budget Target
+537,20180901,2018,9,2018-09,South,Technology,4626.53,754.59,0.1631,Synthetic Managerial Budget Target
+538,20180901,2018,9,2018-09,West,Furniture,8401.88,1215.75,0.1447,Synthetic Managerial Budget Target
+539,20180901,2018,9,2018-09,West,Office Supplies,6877.29,1029.53,0.1497,Synthetic Managerial Budget Target
+540,20180901,2018,9,2018-09,West,Technology,8168.46,1184.43,0.145,Synthetic Managerial Budget Target
+541,20181001,2018,10,2018-10,Central,Furniture,4556.38,739.96,0.1624,Synthetic Managerial Budget Target
+542,20181001,2018,10,2018-10,Central,Office Supplies,5390.26,864.06,0.1603,Synthetic Managerial Budget Target
+543,20181001,2018,10,2018-10,Central,Technology,5560.34,874.64,0.1573,Synthetic Managerial Budget Target
+544,20181001,2018,10,2018-10,East,Furniture,6643.0,1048.93,0.1579,Synthetic Managerial Budget Target
+545,20181001,2018,10,2018-10,East,Office Supplies,6035.32,897.45,0.1487,Synthetic Managerial Budget Target
+546,20181001,2018,10,2018-10,East,Technology,7363.93,1136.25,0.1543,Synthetic Managerial Budget Target
+547,20181001,2018,10,2018-10,South,Furniture,3297.61,470.57,0.1427,Synthetic Managerial Budget Target
+548,20181001,2018,10,2018-10,South,Office Supplies,3776.72,556.31,0.1473,Synthetic Managerial Budget Target
+549,20181001,2018,10,2018-10,South,Technology,4201.23,670.1,0.1595,Synthetic Managerial Budget Target
+550,20181001,2018,10,2018-10,West,Furniture,8047.48,1126.65,0.14,Synthetic Managerial Budget Target
+551,20181001,2018,10,2018-10,West,Office Supplies,5800.9,841.71,0.1451,Synthetic Managerial Budget Target
+552,20181001,2018,10,2018-10,West,Technology,8092.14,1296.36,0.1602,Synthetic Managerial Budget Target
+553,20181101,2018,11,2018-11,Central,Furniture,5856.31,926.47,0.1582,Synthetic Managerial Budget Target
+554,20181101,2018,11,2018-11,Central,Office Supplies,5939.12,871.27,0.1467,Synthetic Managerial Budget Target
+555,20181101,2018,11,2018-11,Central,Technology,7359.58,1036.23,0.1408,Synthetic Managerial Budget Target
+556,20181101,2018,11,2018-11,East,Furniture,7634.31,1127.59,0.1477,Synthetic Managerial Budget Target
+557,20181101,2018,11,2018-11,East,Office Supplies,8202.56,1337.02,0.163,Synthetic Managerial Budget Target
+558,20181101,2018,11,2018-11,East,Technology,11402.42,1563.27,0.1371,Synthetic Managerial Budget Target
+559,20181101,2018,11,2018-11,South,Furniture,4193.5,665.51,0.1587,Synthetic Managerial Budget Target
+560,20181101,2018,11,2018-11,South,Office Supplies,4636.09,748.73,0.1615,Synthetic Managerial Budget Target
+561,20181101,2018,11,2018-11,South,Technology,6121.6,847.23,0.1384,Synthetic Managerial Budget Target
+562,20181101,2018,11,2018-11,West,Furniture,10546.84,1479.72,0.1403,Synthetic Managerial Budget Target
+563,20181101,2018,11,2018-11,West,Office Supplies,8440.38,1279.56,0.1516,Synthetic Managerial Budget Target
+564,20181101,2018,11,2018-11,West,Technology,10007.12,1557.11,0.1556,Synthetic Managerial Budget Target
+565,20181201,2018,12,2018-12,Central,Furniture,6811.24,1122.49,0.1648,Synthetic Managerial Budget Target
+566,20181201,2018,12,2018-12,Central,Office Supplies,7463.13,1123.2,0.1505,Synthetic Managerial Budget Target
+567,20181201,2018,12,2018-12,Central,Technology,6237.38,978.02,0.1568,Synthetic Managerial Budget Target
+568,20181201,2018,12,2018-12,East,Furniture,9461.69,1367.21,0.1445,Synthetic Managerial Budget Target
+569,20181201,2018,12,2018-12,East,Office Supplies,8194.35,1210.31,0.1477,Synthetic Managerial Budget Target
+570,20181201,2018,12,2018-12,East,Technology,9594.59,1489.08,0.1552,Synthetic Managerial Budget Target
+571,20181201,2018,12,2018-12,South,Furniture,4563.85,723.83,0.1586,Synthetic Managerial Budget Target
+572,20181201,2018,12,2018-12,South,Office Supplies,5426.51,866.07,0.1596,Synthetic Managerial Budget Target
+573,20181201,2018,12,2018-12,South,Technology,5997.56,867.25,0.1446,Synthetic Managerial Budget Target
+574,20181201,2018,12,2018-12,West,Furniture,10721.54,1704.72,0.159,Synthetic Managerial Budget Target
+575,20181201,2018,12,2018-12,West,Office Supplies,8865.18,1434.39,0.1618,Synthetic Managerial Budget Target
+576,20181201,2018,12,2018-12,West,Technology,9531.39,1538.37,0.1614,Synthetic Managerial Budget Target

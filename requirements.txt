@@ -1,0 +1,13 @@
+# Business Performance Diagnosis & Decision Intelligence Platform
+# Pinned Dependencies for Python 3.14+ (Windows 11 Compatible)
+
+pandas>=2.2.0,<=3.1.0
+numpy>=1.26.0,<=2.5.0
+matplotlib>=3.8.0,<=3.12.0
+seaborn>=0.13.0,<=0.14.0
+scikit-learn>=1.4.0,<=1.10.0
+pytest>=8.0.0,<=10.0.0
+sqlalchemy>=2.0.0,<=2.1.0
+openpyxl>=3.1.0,<=3.2.0
+python-dateutil>=2.8.2
+requests>=2.31.0

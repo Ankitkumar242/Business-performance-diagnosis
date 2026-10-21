@@ -1,0 +1,5 @@
+ShipModeID,ShipMode,StandardSLADays
+1,Same Day,0
+2,First Class,2
+3,Second Class,4
+4,Standard Class,6
